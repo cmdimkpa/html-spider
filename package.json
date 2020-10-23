@@ -1,0 +1,15 @@
+{
+  "name": "html-spider",
+  "version": "0.1.0",
+  "description": "JavaScript framework to enable namespace-triggered application boilerplate generation and DevOps orchestration",
+  "main": "html-spider-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ParallelScore",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "tdmf": "^0.5.35"
+  }
+}
